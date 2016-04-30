@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TalkBack Player</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="frame_genre">Genre</string>
+    <string name="frame_artist">Artist</string>
+    <string name="frame_album">Album</string>
+    <string name="song_title">Money</string>
+    <string name="song_artist">Michael Jackson</string>
+    <string name="album_cover">zum aktuellen Titel</string>
+    <string name="title_activity_player">Aktueller Titel</string>
+    <string name="desc_next">Nächster Titel</string>
+    <string name="desc_random">Zufälligen Titel</string>
+    <string name="desc_play">Titel abspielen</string>
+    <string name="desc_previous">Vorheriger Titel</string>
+    <string name="desc_play_mode">Abspielmodus: derzeit, alles wiederholen</string>
+    <string name="desc_playing">Player läuft</string>
+    <string name="desc_time_bar">Zeitleiste</string>
+    <string name="desc_album_cover">Album Bild</string>
+    <string name="desc_menu">Menü</string>
+    <string name="desc_search">Suchen</string>
+</resources>
